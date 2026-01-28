@@ -1,0 +1,29 @@
+{
+    "books": [
+    {
+        "id":"1",
+        "name":"Ncert",
+        "genre":"Mathematics",
+        "price":"220",
+        "publisher":"government"
+    
+
+    },
+    {
+        "id":"2",
+        "name":"RD Sharma",
+        "genre":"Mathematics",
+        "price":"999",
+        "publisher":"sharma"
+    
+
+    },
+    {
+        "id":"3",
+        "name":"RS Aggarwal",
+        "genre":"Mathematics",
+        "price":"499",
+        "publisher":"Aggarwal"
+    }
+]
+}

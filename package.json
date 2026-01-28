@@ -1,0 +1,26 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "description": "library Management using express node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaykr2004/Library-management.git"
+  },
+  "author": "Vijay Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaykr2004/Library-management/issues"
+  },
+  "homepage": "https://github.com/vijaykr2004/Library-management#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
